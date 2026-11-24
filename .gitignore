@@ -1,0 +1,9 @@
+# 编译产物
+bin/
+*.exe
+*.pdb
+
+# IDE / 编辑器
+.vs/
+.vscode/
+*.user
